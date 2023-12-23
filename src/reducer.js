@@ -1,4 +1,3 @@
-// src/reducer.js
 const initialState = { greeting: {} };
 
 const reducer = (state = initialState, action) => {
