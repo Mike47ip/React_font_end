@@ -82,13 +82,13 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Kwaku28/hello-react-front-end.git
+  git clone https://github.com/Mike47ip/React_font_end.git
 ```
 
 ## 💻 Rails API <a name="rails-api"></a>
 
 ```sh
-  https://github.com/Kwaku28/hello-rails-back-end
+  https://github.com/Mike47ip/Rails-back-end
 ```
 
 # Available Scripts
